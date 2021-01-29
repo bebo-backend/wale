@@ -88,12 +88,13 @@ router.push("/search/?"+string_url)
 
     return (  
     <>
-{ orientation == "row" ? <section className="" id="bg-img" >
+     <h1 className="  px-4 py-2 show-mobile text-center font-weight-bold mt-4 ">WHERE WILL YOUR RATHER LIVE ?</h1>
+{ orientation == "row" ? <section className="show-laptop" id="bg-img" >
         <div class="container grp-main-content  " >
             <div class="row "  style={{paddingTop:'14px',paddingBottom:'40px'}}>
                 <div class="col-12  mt-0 text-center ">
                     <div class="section-title mb-2">
-                        <h1 className="  px-4 py-2  text-white" style={{borderLeft:'0px solid gold'}}>WHERE WILL YOUR RATHER LIVE ?</h1>
+                        <h1 className="  px-4 py-2  text-white ">WHERE WILL YOUR RATHER LIVE ?</h1>
                     </div>
                 </div>
           
@@ -103,6 +104,7 @@ router.push("/search/?"+string_url)
                 </div>
 
                 <div className="container main-search card-box p-4  " style={{borderRadius:'0px'}}>
+
 
                 <div class="row ">
 

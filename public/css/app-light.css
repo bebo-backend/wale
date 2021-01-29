@@ -8983,10 +8983,6 @@ form.was-validated select:valid ~ .select2-container--bootstrap4 .select2-select
   }
 
 
-.show-laptop {
-
-  display: none
-}
 
 
 
@@ -9000,9 +8996,7 @@ form.was-validated select:valid ~ .select2-container--bootstrap4 .select2-select
 
 @media only screen and (max-width: 888px) {
  
-.fiat-view-pic {
-  margin-top: 330px;
-}
+
 
 .status {
 
@@ -9015,9 +9009,7 @@ form.was-validated select:valid ~ .select2-container--bootstrap4 .select2-select
 
 @media only screen and (max-width: 1008px and min-width: 889px) {
  
-.fiat-view-pic {
-  margin-top: 300px;
-}
+
 
 .status {
 

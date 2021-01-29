@@ -302,7 +302,7 @@ setModalUser(data);
 
 
 
-  return (   notification ?  <div class="user-notification pt-3">
+  return (   notification ?  <div class="user-notification pt-3 show-laptop">
 
         <div class="dropdown pt-2 mr-1">
           <a class="dropdown-toggle no-arrow"  role="button" data-toggle="dropdown" onClick={fetchMessage}>

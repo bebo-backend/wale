@@ -5,6 +5,15 @@
   
 @media only screen and (max-width: 993px) {
 
+
+
+.detail {
+
+  color: black;
+}
+
+
+
 .property .customtab li {
     
     width:15%
@@ -95,17 +104,6 @@ line-height: 33px
     
     padding: 0px;
     margin: 0px
-}
-
-
-
-
-
-
-
-.show-laptop {
-
-  display: none
 }
 
 
