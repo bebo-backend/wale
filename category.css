@@ -1,0 +1,506 @@
+
+
+.text-white {
+  color: #fff !important; }
+  
+@media only screen and (max-width: 993px) {
+
+.property .customtab li {
+    
+    width:15%
+}
+
+.menu .customtab li {
+    
+    width:50%
+}
+
+.detail .customtab li {
+    
+    width:25%
+}
+.profile .customtab li {
+    
+    width:33%
+}
+
+#header {
+    
+    padding-top: 0px!important;
+
+}
+
+.img-data {
+    max-height: 125px;
+}
+
+
+.info-data h1 {
+
+font-size: 23px;
+line-height: 33px;
+
+}
+
+.info-data h5 {
+margin-top: -20px;
+
+}
+.info-data h3 {
+margin-top: -15px;
+
+font-size: 23px;
+line-height: 33px
+
+}
+.notification-drop{
+  margin-right: -60px;
+}
+    
+
+    main ol.breadcrumb {
+    margin-top: -20px;
+}
+
+ .sort {
+    
+    padding-bottom: 10px;
+     text-align: right;
+}
+
+
+
+     .search-form {
+
+      border:1px solid silver;
+   
+      
+       
+     }
+
+     .search-form input {
+     border-top:0px solid silver;
+     border-bottom:0px solid silver;
+     border-left:0px solid;
+ margin-top: 1px;
+
+ }
+
+    .menu-text {
+        display: inline-block;
+    }
+
+
+.main  {
+    
+    padding: 0px;
+    margin: 0px
+}
+
+
+
+
+
+
+
+.show-laptop {
+
+  display: none
+}
+
+
+
+.property-data {
+
+   margin-left: 12px;
+   margin-right: 12px;
+}
+
+#bg-img {
+
+    height: 300px;
+}
+
+
+.pd-social {
+    text-align: left;
+    margin-top:10px;
+    margin-bottom:10px;
+  
+  }
+
+ .pd-social a {
+  display: inline-block;
+  font-size: 14px;
+  color: #dfcdcd;
+  height: 36px;
+  width: 36px;
+  background: #f2f2f2;
+  line-height: 36px;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 10px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.pd-social a:hover {
+  background: #00C89E;
+  color: #ffffff;
+}
+ .pd-social a:last-child {
+  margin-right: 0;
+}
+
+
+#header .navbar-brand  {
+    
+    margin-left: -20px
+}
+
+#header {
+    padding: 0px;
+    margin: 0px;
+}
+
+#header .container-fluid {
+padding: 0px;
+    margin: 0px;
+    
+}
+
+
+#navbarSupportedContent {
+    background: #3e437f;
+    
+    
+}
+
+#navbarSupportedContent input {
+
+margin-right: 214px;}
+
+#navbarSupportedContent button {
+    background: rgb(243, 243, 245);
+    color:white;
+    width: 97%;
+}
+
+#navbarSupportedContent .search-icon {
+    display: none;
+}
+
+
+.submit-form   {
+
+    margin-left: 0px;
+    padding: 0px
+}
+
+
+.submit-form .col-form-label  {
+   font-size: 16px;
+}
+
+.submit-form p  {
+   font-size: 16px;
+}
+
+.submit-form span  {
+   font-size: 16px;
+}
+
+.submit-section{
+    
+    padding: 0px;
+}
+
+.submit-form div {
+   margin-left: 0px;
+    margin-right: 0px;
+}
+.dropzone {
+    
+    height: 100px;
+    
+    
+}
+
+.submit-form .image-card {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+p.dropzone-detail {
+    font-size: 14px;
+    
+}
+
+.submit-form a {
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+}
+
+.submit-form .card-header{
+    height: 50px;
+}
+
+
+.form-cat {
+    
+  padding: 0px;  
+}
+
+.form-cat h4 {
+    padding: 0px
+}
+
+.form-cat input.title {
+    margin-left: -16px;
+    margin-right: -16px;
+    min-width: 295px
+    
+}
+
+.form-group textarea {
+    height: 120px;
+    
+}
+
+.submit-form .submit-btn {
+
+    text-align: center;
+    min-width: 100%;
+}
+
+.search-form .input-group-text i{
+
+    
+}
+
+
+
+.wrapper2 {
+    margin-right:0px;
+    
+}
+
+
+
+.profile-tab .nav-item a {
+    
+    font-size: 14px
+    
+}
+
+
+.ProfileDetail, .ProfileProperty {
+    margin-left: -12px;
+    margin-right: -10px;
+    
+}
+
+.notification-list{
+    margin-left: -12px;
+    
+}
+
+h6.fullname {
+    font-size: 12px;
+    font-weight: bold
+}
+
+.message-title {
+    text-wrap: wrap;
+    
+}
+
+.notification-list .file-action {
+    border: 0px solid;
+    padding: 0px;
+    color:black;
+    
+}
+
+
+
+.detail-bcrumb {
+    padding-top: 10px;
+    
+}
+
+.carousel-pic .card-box {
+ padding-left: 16px;   
+ padding-right: 13px;   
+}
+
+
+.carousel-pic .carousel-control-prev,.carousel-control-next {
+    
+    display: flex;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    
+    background: black;
+    border-radius: 30px;
+    height: 39px;
+    width:40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px
+    
+    
+}
+
+
+.carousel-pic .show-mobile .card-box {
+margin-left: -10px
+    
+    
+}
+
+
+div.review {
+    
+    margin-left: 12px;
+    margin-right: 10px;
+}
+
+div.review-message {
+    margin-left:4px ;
+    
+    
+}
+
+div.review h4 {
+    
+    font-size: 17px
+}
+
+div.top-agents {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+
+
+
+}
+
+
+@media only screen and (min-width: 715px) {
+
+
+
+.log-item {
+  display: none;
+}
+
+.submit-padding {
+
+  margin-left: 4%;margin-right: 4%;
+  padding-left: 4%;padding-right: 4%;
+}
+
+
+
+}
+
+
+.category-parent div {
+    padding: 2px;
+    padding-top: 2px
+
+}
+
+.category div.menudiv {
+
+  border-bottom: 0px solid rgba(0, 0, 0, 0.1);
+
+  
+margin-bottom: 5px;
+
+}
+
+
+
+.my-logo{
+    color:#400505!important
+    
+}
+
+
+
+
+#header .username {
+    color:black!important
+    
+    
+}
+
+#header .dw-chat-4 {
+    color:rgb(129,129,129)!important
+    
+}
+
+
+.menu-data  {
+    position: absolute;
+    top: 0%;
+    
+    z-index: 1000;
+    
+    
+    min-width: 70%;
+    max-width: 300px;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: .1rem;
+    height: 95%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+
+#header {
+
+      border-bottom: 1px solid #d9d9dacf;
+}
+
+
+.md-icon {
+    align-items: center;
+
+    border-radius: 50%;
+    /*display: flex-col;*/
+    
+    justify-content: center;
+ 
+}
+
+
+.md-title {
+    padding: 5px;
+    border: 6px solid rgba(192,192,192,0.11);
+    border-radius: 599px;
+    height: 50px;
+    width: 50px;
+    display: flex-end;
+    justify-content: center;
+    align-content: center;
+    background: rgba(192,192,192,0.08);
+    
+}
+
+.fs-widget li a {
+
+  color: black;
+}

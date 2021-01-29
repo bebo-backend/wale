@@ -1,0 +1,26 @@
+.pd-text .pd-social {
+    text-align: right;
+    padding-top: 40px;
+    margin-bottom: 30px;
+  }
+  .pd-text .pd-social a {
+    display: inline-block;
+    font-size: 14px;
+    color: #111111;
+    height: 36px;
+    width: 36px;
+    background: #f2f2f2;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .pd-text .pd-social a:hover {
+    background: #00C89E;
+    color: #ffffff;
+  }
+  .pd-text .pd-social a:last-child {
+    margin-right: 0;
+  }
